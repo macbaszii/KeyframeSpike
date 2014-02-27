@@ -22,6 +22,7 @@
 		DD29D35218BDEEE4005293FC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = DD29D33118BDEEE4005293FC /* UIKit.framework */; };
 		DD29D35A18BDEEE4005293FC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = DD29D35818BDEEE4005293FC /* InfoPlist.strings */; };
 		DD29D35C18BDEEE4005293FC /* KeyframeSpikeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = DD29D35B18BDEEE4005293FC /* KeyframeSpikeTests.m */; };
+		DD29D36818BF1FC1005293FC /* elephant_avatar_transparent.png in Resources */ = {isa = PBXBuildFile; fileRef = DD29D36718BF1FC1005293FC /* elephant_avatar_transparent.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		DD29D35718BDEEE4005293FC /* KeyframeSpikeTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "KeyframeSpikeTests-Info.plist"; sourceTree = "<group>"; };
 		DD29D35918BDEEE4005293FC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		DD29D35B18BDEEE4005293FC /* KeyframeSpikeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = KeyframeSpikeTests.m; sourceTree = "<group>"; };
+		DD29D36718BF1FC1005293FC /* elephant_avatar_transparent.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = elephant_avatar_transparent.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				DD29D34218BDEEE4005293FC /* Main_iPad.storyboard */,
 				DD29D34518BDEEE4005293FC /* OZViewController.h */,
 				DD29D34618BDEEE4005293FC /* OZViewController.m */,
+				DD29D36718BF1FC1005293FC /* elephant_avatar_transparent.png */,
 				DD29D34818BDEEE4005293FC /* Images.xcassets */,
 				DD29D33418BDEEE4005293FC /* Supporting Files */,
 			);
@@ -235,6 +238,7 @@
 				DD29D34418BDEEE4005293FC /* Main_iPad.storyboard in Resources */,
 				DD29D34918BDEEE4005293FC /* Images.xcassets in Resources */,
 				DD29D34118BDEEE4005293FC /* Main_iPhone.storyboard in Resources */,
+				DD29D36818BF1FC1005293FC /* elephant_avatar_transparent.png in Resources */,
 				DD29D33818BDEEE4005293FC /* InfoPlist.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -475,6 +479,7 @@
 				DD29D36118BDEEE4005293FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		DD29D36218BDEEE4005293FC /* Build configuration list for PBXNativeTarget "KeyframeSpikeTests" */ = {
 			isa = XCConfigurationList;
@@ -483,6 +488,7 @@
 				DD29D36418BDEEE4005293FC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
